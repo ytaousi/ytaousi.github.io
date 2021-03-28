@@ -2,9 +2,8 @@
 layout: post
 ---
 
-Game Designed for community under 18  
+            The game should include:  
 
-The game should include:
 > Ninja fighting Style
 
 > Solo campaign in order the unlock achievements and upgrades

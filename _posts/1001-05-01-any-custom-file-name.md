@@ -9,4 +9,4 @@ The game should include:
 
 > Multiplayer access after finishing main story where the game start
 
-> Custom charactere creation with saved progression.
+> Custom characters creation with saved progression.

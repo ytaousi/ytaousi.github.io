@@ -1,8 +1,7 @@
 ---
 layout: post
 ---
-
-            The game should include:  
+The game should include:  
 
 > Ninja fighting Style
 

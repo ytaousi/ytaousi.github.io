@@ -2,9 +2,11 @@
 layout: post
 ---
 
-example of blockquotes
+Game Designed for community under 18  
 
-As Grace Hopper said:
-> I’ve always been more interested 
-> in the future than in the past.
-
+The game should include:
+> Ninja fighting Style
+> Solo campaign in order the unlock achievements and upgrades
+> Custom charactere creation with saved progression.
+> Multiplayer access after finishing main story where the game start
+> Alliance's, Guilde's, Tribute's, Donjon's, PVP arena...  
